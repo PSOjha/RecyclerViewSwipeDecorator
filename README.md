@@ -102,31 +102,31 @@ Set the tint color for action icon shown while swiping left
 
 ##### public Builder setIconHorizontalMargin(int unit, int iconHorizontalMargin) #####
 Set icon horizontal margin from left/right bound of the view (default is 16dp).
-N.B. unit is a TypedValue (e.g. TypedValue.COMPLEX_UNIT_DIP)
+N.B. unit is a TypedValue (e.g. TypedValue.COMPLEX_UNIT_DIP).
 
 ##### public Builder addSwipeRightLabel(String label) #####
-Add a label to be shown while swiping right
+Add a label to be shown while swiping right.
 
 ##### public Builder setSwipeRightLabelColor(int color) #####
-Set the color of the label to be shown while swiping right
+Set the color of the label to be shown while swiping right.
 
 ##### public Builder setSwipeRightLabelTextSize(int unit, float size) #####
-Set the size of the label to be shown while swiping right
-N.B. unit is a TypedValue (e.g. TypedValue.COMPLEX_UNIT_SP)
+Set the size of the label to be shown while swiping right.
+N.B. unit is a TypedValue (e.g. TypedValue.COMPLEX_UNIT_SP).
 
 ##### public Builder setSwipeRightLabelTypeface(Typeface typeface) #####
-Set the Typeface of the label to be shown while swiping right
+Set the Typeface of the label to be shown while swiping right.
 
 
 ##### public Builder addSwipeLeftLabel(String label) #####
-Add a label to be shown while swiping left
+Add a label to be shown while swiping left.
 
 ##### public Builder setSwipeLeftLabelColor(int color) #####
-Set the color of the label to be shown while swiping left
+Set the color of the label to be shown while swiping left.
 
 ##### public Builder setSwipeLeftLabelTextSize(int unit, float size) #####
-Set the size of the label to be shown while swiping left
-N.B. unit is a TypedValue (e.g. TypedValue.COMPLEX_UNIT_SP)
+Set the size of the label to be shown while swiping left.
+N.B. unit is a TypedValue (e.g. TypedValue.COMPLEX_UNIT_SP).
 
 ##### public Builder setSwipeLeftLabelTypeface(Typeface typeface) #####
-Set the Typeface of the label to be shown while swiping left
+Set the Typeface of the label to be shown while swiping left.
